@@ -1,5 +1,5 @@
 {
-    "name": "inSpot/transmission",
+    "name": "inspot/transmission",
     "description": "Library for handling transmission remote",
     "type": "library",
     "authors": [
