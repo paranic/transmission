@@ -1,0 +1,20 @@
+{
+    "name": "inSpot/transmission",
+    "description": "Library for handling transmission remote",
+    "type": "library",
+    "authors": [
+        {
+            "name": "inSpot",
+            "email": "info@inspot.gr"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "symfony/process": "^2.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "inSpot\\Transmission\\": "src"
+        }
+    }
+}
